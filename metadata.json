@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Colonos ERP",
+  "description": "Sistema ERP y Gestión Hotelera para Hotel Colonos con Control de Habitaciones, Ventas, CRM, Finanzas e Inventario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
